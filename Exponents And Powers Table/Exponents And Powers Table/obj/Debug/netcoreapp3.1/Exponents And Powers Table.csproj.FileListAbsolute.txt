@@ -1,0 +1,14 @@
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\bin\Debug\netcoreapp3.1\Exponents And Powers Table.exe
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\bin\Debug\netcoreapp3.1\Exponents And Powers Table.deps.json
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\bin\Debug\netcoreapp3.1\Exponents And Powers Table.runtimeconfig.json
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\bin\Debug\netcoreapp3.1\Exponents And Powers Table.runtimeconfig.dev.json
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\bin\Debug\netcoreapp3.1\Exponents And Powers Table.dll
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\bin\Debug\netcoreapp3.1\Exponents And Powers Table.pdb
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.AssemblyInfo.cs
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.dll
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.pdb
+C:\Users\HPHAN1\devbuild\LAB3\Exponents And Powers Table\Exponents And Powers Table\obj\Debug\netcoreapp3.1\Exponents And Powers Table.genruntimeconfig.cache
